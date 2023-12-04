@@ -16,8 +16,6 @@ import Singleslider from '../Pages/Singleslider'
 
 const Home = () => {
 
- 
- 
   return (
     <Box >
       <Autocrausel2/>

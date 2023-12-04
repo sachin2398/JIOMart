@@ -40,7 +40,7 @@ export default function Login() {
         !otpRequestSend &&
           toast({
             title: "Verification Reminder",
-            description: `"${a} is your One-Time Password. Please do not share your OTP with anyone. Team Smart Store"`,
+            description: `"${a} is your One-Time Password. Please do not share your OTP with anyone. Team Jio Mart"`,
             status: "success",
             duration: 5000,
             isClosable: true,
@@ -69,7 +69,7 @@ export default function Login() {
     setOtp(a);
     toast({
       title: "Verification Reminder",
-      description: `"${a} is your One-Time Password. Please do not share your OTP with anyone. Team Smart Store"`,
+      description: `"${a} is your One-Time Password. Please do not share your OTP with anyone. Team Jio Mart"`,
       status: "success",
       duration: 5000,
       isClosable: true,

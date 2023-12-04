@@ -1,7 +1,7 @@
 import React, { useEffect, useState, useCallback, useRef } from "react";
 import * as FaIcons from "react-icons/fa";
 import { RiAdminLine } from "react-icons/ri";
-import logo from "../Resources/bcg-noBackground.png";
+import logo from "../Resources/jiomart-logo.svg";
 import { BiLogOut } from "react-icons/bi";
 import { FiShoppingCart } from "react-icons/fi";
 import "./Navbar.css";
@@ -146,13 +146,15 @@ function Navbar() {
             <InputGroup>
               <input
                 ref={input_value}
-                style={{ borderRadiusTopLeft: "20px", border: "transparent" }}
-                borderRadiusLeft={"20px"}
+                style={{ borderRadius: "20px",  border: "transparent" }}
+                borderRadiusLeft={"50px"}
+                borderRadiusRight={"50px"}
+
                 bgColor="white"
                
                 className="R-inputBox"
                 type="text"
-                placeholder="Search essential,goods and much more......"
+                placeholder="Search JioMart..."
                 onChange={(e) => optimizedFn(e.target.value)}
               />
 
@@ -161,7 +163,7 @@ function Navbar() {
                 _hover={{ color: "red" }}
                 display={{ base: "none", md: "none",lg:"block" }}
                 ml={-130}
-                p={"20px 20px 33px"}
+                p={"5px 5px 7px"}
                 zIndex="1000"
                 onClick={() => {
                   input_value.current.value = "";
