@@ -4,28 +4,24 @@ Jio Mart is a clone of Jiomart.com. Jio Mart is India's most convenient online g
 
 ##  
 
-This project was built during our construct week at Masai School. It was built by a team of 6 developers and executed in 6 days.
+
        
 ## 🚀 Demo
 
-*Front-end deployed URL:*
+*Front-end deployed URL:* https://jio-mart-fepz.vercel.app/
 
 
 
 ## GitHub Repoitory Link
 
 
-https://github.com/sachin2398/jio-mart
+https://github.com/sachin2398/JIOMart
 
 
 ## ✍ Contributors
 
 - [@sachin2398](https://github.com/sachin2398)
-- [@anki2001ta](https://github.com/satyam46020)
-- [@shashikantRupin](https://github.com/shashikantRupin)
-- [@artisonii](https://github.com/artisonii)
-- [@Mrinal26](http://Github.com/Mrinal26)
-- [@Sunil8090](https://github.com/Sunil8090)
+
 
 ## 🛠 Built with 
 
@@ -93,7 +89,6 @@ Technologies used in the project:
 - Home Page
 - Login/Logout Page
 - Sign Up Page
-- Admin Panel 
 - Product Page
     - Beverages
     - Electronic Products
@@ -106,7 +101,7 @@ Technologies used in the project:
 
 ## 🚀 Demo
 
-*Front-end deployed URL:*
+*Front-end deployed URL: * https://jio-mart-fepz.vercel.app/
 
 
 
@@ -126,11 +121,6 @@ Technologies used in the project:
 
 
 
-## ✍ Contributors
+## ✍ Contributor
 
 - [@sachin2398](https://github.com/sachin2398)
-- [@anki2001ta](https://github.com/satyam46020)
-- [@shashikantRupin](https://github.com/shashikantRupin)
-- [@artisonii](https://github.com/artisonii)
-- [@Mrinal26](http://Github.com/Mrinal26)
-- [@Sunil8090](https://github.com/Sunil8090)
